@@ -4,5 +4,5 @@ router.get('/', (req, res)=>{
     res.json({message: "essa é a 'página' principal da api. :)"});
 })
 router.post('/signup', AuthController.register);
-router.get('/lista', AuthController.list)
+router.post('/login', AuthController.login);
 module.exports = router;
