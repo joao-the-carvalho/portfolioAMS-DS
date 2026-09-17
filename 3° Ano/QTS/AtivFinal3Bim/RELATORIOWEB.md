@@ -1,6 +1,6 @@
 # Relatório de Testes — Sistema de Biblioteca Escolar
 
-**Aluno(s):** João Victor de Paiva Carvalho
+**Aluno(s):** João Victor de Paiva Carvalho e Cesar Moreno Fernandes
 **Turma:** 3° DS AMS
 **Data:** 17/09/2026  
 
